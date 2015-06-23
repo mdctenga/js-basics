@@ -42,4 +42,4 @@ var dog = {
 	bark: function bark(){
 		console.log("bark");
 	}
-}
+};
